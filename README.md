@@ -59,3 +59,14 @@ If a character suffers multiple attacks in a single Combat Turn, each successive
 | Eye       | -100 |
 | Wrist     | -40 |
 | Shoulder  | -30 |
+
+## Table 46: Defense Against Projectiles
+
+| Situation | Fired Projectile | Thrown Projectiles |
+|------------|------------------:|------------------:|
+| Block                         | -80 | -50 |
+| Dodge                         | -30 | NA  |
+| Block with Mastery            | -20 | NA  |
+| Dodge with Mastery            | NA  | NA  |
+| Block with shield             | -30 | NA  |
+| Block with Mastery and shield | NA  | NA  |
