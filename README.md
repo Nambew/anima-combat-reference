@@ -38,3 +38,24 @@ If a character suffers multiple attacks in a single Combat Turn, each successive
 | 3          | -50 |
 | 4          | -70 |
 | 5+         | -90 |
+
+# Table 42: Directed Attacks
+
+| Body Part | Penalty against humanoids |
+|-----------|--------------------------:|
+| Neck      | -80 |
+| Head      | -60 |
+| Elbow     | -60 |
+| Heart     | -60 |
+| Groin     | -60 |
+| Foot      | -50 |
+| Hand      | -40 |
+| Knee      | -40 |
+| Abdomen   | -20 |
+| Arm       | -20 |
+| Thigh     | -20 |
+| Calf      | -10 |
+| Torso     | -10 |
+| Eye       | -100 |
+| Wrist     | -40 |
+| Shoulder  | -30 |
