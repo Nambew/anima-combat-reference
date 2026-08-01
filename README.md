@@ -1,6 +1,23 @@
 # anima-combat-reference
 List of helpful table for combat in Anima Beyond 
 
+# Examples of Actions
+
+## Actives Actions
+* Attack an enemy
+* Use Active spells or psychic powers
+* Use physical abilities
+* Move more than ¼ of your Movement Value
+* Use an Active Secondary Ability
+
+## Passive Actions
+* Defend against an attack
+* Draw or unsheathe a weapon (special)
+* Use Passive spells or psychic powers
+* Move less than ¼ of your Movement Value
+* Carry out an Opposed Check
+* Use a Passive Secondary Ability
+* Speak
 
 # Table 40: Special Combat Situations
 
