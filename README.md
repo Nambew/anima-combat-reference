@@ -25,3 +25,16 @@ List of helpful table for combat in Anima Beyond
 | Crowded Space | -40 Sp. | -40 Sp. | -40 | - | -20 |
 | Small Adversary | -10 | - | - | - | - |
 | Tiny Adversary | -20 | -10 | - | - | - |
+
+# Additional Defenses
+
+If a character suffers multiple attacks in a single Combat Turn, each successive attack is harder to Block or Dodge. For that reason, the GM should apply a penalty of **−30** to a character's Block or Dodge Ability against a second attack, and an additional **−20** for each successive attack after that, to a maximum of **−90**. This penalty is cumulative with other penalties—such as being Flanked or attacked From Behind.
+
+## Table 41: Penalty to Defense
+
+| Attack no. | Defensive Penalty |
+|------------|------------------:|
+| 2          | -30 |
+| 3          | -50 |
+| 4          | -70 |
+| 5+         | -90 |
