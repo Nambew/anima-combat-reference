@@ -88,6 +88,15 @@ If a character suffers multiple attacks in a single Combat Turn, each successive
 | Block with shield             | -30 | NA  |
 | Block with Mastery and shield | NA  | NA  |
 
+## Table 47: Critical in combat
+
+| Level of Critical | Locat. | Effects |
+|-------------------|--------|---------|
+| 1 to 50 | No | Suffers an All Action Penalty equal to the level of the Critical. The penalty diminishes at 5 points per combat turn. |
+| 51 to 100 | Yes | Suffers an All Action Penalty equal to the level of the Critical. The penalty diminishes at 5 points per combat turn up to ½ its value. Hit location must be determined. |
+| 101 to 150 | Yes | Suffers an All Action Penalty equal to the level of the Critical. The penalty diminishes at 5 points per combat turn up to ½ its value. If the hit is on a limb, it is irreparably destroyed or amputated. If it hits the head or heart, the person dies. |
+| More than 150 | Yes | Like the previous, but the person is immediately unconscious, and dies in a number of minutes equal to his Constitution if he doesn't get medical attention. |
+
 # Supernatural Attacks
 
 ## Energy Attacks
